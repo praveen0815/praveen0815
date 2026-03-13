@@ -1,7 +1,7 @@
 <!-- Galaxy Animated Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Hi%20I'm%20Yuvashri&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Hi%20I'm%20Praveenkumar&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <!-- Typing Animation -->
@@ -81,7 +81,7 @@
 
 # 📫 Connect With Me
 
-📧 Email: **[yuvashri195@gmail.com](mailto:yuvashri195@gmail.com)**
+📧 Email: **[Praveenkumar195@gmail.com](mailto:Praveenkumar72696@gmail.com)**
 
 ---
 
