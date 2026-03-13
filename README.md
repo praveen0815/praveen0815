@@ -29,7 +29,7 @@
 # 🚀 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -81,7 +81,7 @@
 
 # 📫 Connect With Me
 
-📧 Email: **[Praveenkumar195@gmail.com](mailto:Praveenkumar72696@gmail.com)**
+📧 Email: **[Praveenkumar72696@gmail.com](mailto:Praveenkumar72696@gmail.com)**
 
 ---
 
