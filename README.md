@@ -54,7 +54,7 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/praveen0815?theme=dark&font=Nunito">
+<img src="https://leetcode.com/u/Praveen1508//praveen0815?theme=dark&font=Nunito">
 </p>
 
 ---
