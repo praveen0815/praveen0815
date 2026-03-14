@@ -24,7 +24,7 @@
 - 📊 Interested in **Data Analysis and AI-driven insights**
 - 🧠 Learning **AI tools, APIs, and automation**
 - 🚀 Love building **real-world projects**
-- 🎯 Goal: Become an AI Software Engineer building intelligent real-world systems
+- 🎯 Goal: Become an **AI Software Engineer building intelligent real-world systems**
 
 ---
 
