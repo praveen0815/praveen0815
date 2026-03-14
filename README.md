@@ -1,13 +1,19 @@
 <!-- Galaxy Animated Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Hi%20I'm%20Praveenkumar&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=220&section=header&text=Hi%20I'm%20Praveenkumar&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
+
+<!-- Coding GIF -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <!-- Typing Animation -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=1000&color=F700FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Java+%7C+Python+%7C+Data+Analysis;Learning+DSA+and+Building+Projects🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+Software+Engineer+in+Progress;Java+%7C+Python+Developer;Learning+DSA+%26+Artificial+Intelligence;Building+Real+World+Projects🚀">
 </h1>
 
 <p align="center">
@@ -16,21 +22,29 @@
 
 ---
 
-# 👩‍💻 About Me
+# 👨‍💻 About Me
 
 - 🌱 Currently learning **Data Structures & Algorithms**
 - 💻 Practicing coding problems on **LeetCode**
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 📊 Interested in **AI-driven insights**
 - 🧠 Learning **AI tools, APIs, and automation**
-- 🎯 Goal: Become an **AI Software Engineer building intelligent real-world systems**
+- 🚀 Love building **real-world AI projects**
+- 🎯 Goal: Become an **AI Software Engineer building intelligent systems**
 
 ---
 
 # 🚀 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode,tensorflow,pytorch" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=praveen0815&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -52,22 +66,18 @@
 
 ---
 
-# 🧠 LeetCode Stats
+# 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Praveen1508?theme=dark&font=Nunito">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen0815&theme=tokyo-night">
 </p>
 
 ---
 
-# 🧊 Contribution Activity
+# 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen0815&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praveen0815&theme=tokyonight&utcOffset=5.5">
+<img src="https://leetcard.jacoblin.cool/Praveen1508?theme=dark&font=Nunito">
 </p>
 
 ---
@@ -82,8 +92,22 @@
 
 # 📫 Connect With Me
 
-📧 Email: **[Praveenkumar72696@gmail.com](mailto:Praveenkumar72696@gmail.com)**
+<p align="center">
+
+<a href="mailto:Praveenkumar72696@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/praveen0815">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ **Thanks for visiting my profile!**
