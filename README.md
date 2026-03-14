@@ -87,6 +87,3 @@
 ---
 
 ⭐ *Thanks for visiting my profile!*
-
-
-i need more animated and enhance it
