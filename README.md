@@ -1,8 +1,8 @@
 <!-- Galaxy Animated Header -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Hi%20I'm%20Praveenkumar&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-</p>
+<h1 align="center">
+Hi, I'm Praveenkumar
+</h1>
 
 <!-- Typing Animation -->
 
