@@ -1,7 +1,7 @@
 <!-- Galaxy Animated Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20I'm%20Praveenkumar&fontSize=40&fontAlignY=50&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff7e5f,100:feb47b&height=200&section=header&text=Hi%20I'm%20Praveenkumar&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <!-- Typing Animation -->
