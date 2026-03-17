@@ -4,7 +4,7 @@
 </p>
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=AI+%7C+ML+Engineer;Java+%7C+Python+%7C+TypeScript;Spring+Boot+%7C+Node.js+%7C+React;Designing+Intelligent+Systems🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=AI+%7C+Software+Engineer;Java+%7C+Python+%7C+TypeScript;Spring+Boot+%7C+Node.js+%7C+React;Designing+Intelligent+Systems🚀" />
 </h1>
 
 <p align="center">
