@@ -4,8 +4,8 @@
 </p>
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+TypeScript;Spring+Boot+%7C+Node.js+%7C+Express;Building+Scalable+AI+Systems🚀;Open+to+Innovate+%26+Collaborate" />
-</h1>>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Praveen+Kumar;AI+Software+Engineer;Full+Stack+Developer;Building+Clean+%26+Scalable+Systems" />
+</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=praveen0815&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
