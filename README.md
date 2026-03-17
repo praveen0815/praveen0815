@@ -3,10 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20I'm%20Praveenkumar&fontSize=40&fontAlignY=50&animation=fadeIn&fontColor=ffffff"/>
 </p>
 <!-- Typing Animation -->
-
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=AI+Software+Engineer+Developer;Java+%7C+Python+%7C+TypeScript;Spring+Boot+%7C+Node.js+%7C+Express.js;Building+Intelligent+AI+Systems🚀">
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+TypeScript;Spring+Boot+%7C+Node.js+%7C+Express;Building+Scalable+AI+Systems🚀;Open+to+Innovate+%26+Collaborate" />
+</h1>>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=praveen0815&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
