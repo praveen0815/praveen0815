@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+Software+Engineer;Building+Scalable+Web+Applications;Java+%7C+Python+%7C+TypeScript;Spring+Boot+%7C+Node.js+%7C+React;Artificial+Intelligence+%7C+Machine+Learning" />
 </h1>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=praveen0815&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
 ---
 
 # 👩‍💻 About Me
