@@ -23,7 +23,7 @@
 # 🚀 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,express,python,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,python,fastapi,django,vscode,git,github" />
 </p>
 
 ---
