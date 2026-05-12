@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Full+Stack+Developer+%7C+AI+Enthusiast;Spring+Boot+%7C+Node.js+%7C+React;Machine+Learning+%7C+Automation+%7C+LLMs;Turning+Ideas+Into+Scalable+Systems" />
 </p>
 
-Name: Praveenkumar R
-Role: AI Software Engineer Aspirant
-Location: Tamil Nadu, India
-
 Focus:
   - Full Stack Development
   - Artificial Intelligence
