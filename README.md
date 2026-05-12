@@ -97,10 +97,19 @@ Goal:
 # 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen0815&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen0815&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+  />
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nodejs,spring,mongodb,mysql,fastapi,django" />
+</p>
+
+<p align="center">
+  🚀 Passionate about building scalable AI-powered applications and modern backend systems.
+</p>
 
 # 🧊 Contribution Summary
 
