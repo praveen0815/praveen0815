@@ -1,27 +1,13 @@
-````md
-<!-- ========================================================= -->
-<!--                  PREMIUM GITHUB README                    -->
-<!-- ========================================================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Praveenkumar%20R&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=58&descSize=20"/>
 </p>
 
-<!-- ========================================================= -->
-<!--                      TYPING ANIMATION                     -->
-<!-- ========================================================= -->
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Full+Stack+Developer+%7C+AI+Enthusiast;Spring+Boot+%7C+Node.js+%7C+React;Machine+Learning+%7C+Automation+%7C+LLMs;Turning+Ideas+Into+Scalable+Systems" />
 </p>
 
-<!-- ========================================================= -->
-<!--                         ABOUT ME                          -->
-<!-- ========================================================= -->
-
-# 💫 About Me
-
-```yaml
 Name: Praveenkumar R
 Role: AI Software Engineer Aspirant
 Location: Tamil Nadu, India
@@ -40,9 +26,6 @@ Learning:
 
 Goal:
   Build scalable AI-powered real-world applications
-````
-
----
 
 # 🚀 Tech Stack
 
@@ -109,44 +92,6 @@ Goal:
 * FastAPI
 * LLM APIs
 * Vector Databases
-
----
-
-## 🔹 Campus Sports Slot Booking App
-
-> Built a scalable web application for booking and managing sports facility reservations.
-
-### Features
-
-* User Authentication
-* Slot Booking
-* Admin Dashboard
-* Real-Time Availability
-
-### Tech Stack
-
-* React
-* Node.js
-* MongoDB
-
----
-
-## 🔹 Full Stack Authentication System
-
-> JWT-based authentication system with secure role-based access control.
-
-### Features
-
-* Login & Registration
-* JWT Authentication
-* Role-Based Authorization
-* Protected APIs
-
-### Tech Stack
-
-* Node.js
-* Express.js
-* MongoDB
 
 ---
 
@@ -238,29 +183,8 @@ Goal:
   <img src="https://komarev.com/ghpvc/?username=praveen0815&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
----
-
-# ⚡ Fun Fact
-
-```javascript
-while(!success) {
-   keepLearning();
-   buildProjects();
-   stayConsistent();
-}
-```
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
 
-<!-- ========================================================= -->
 
-<!--                     END OF README                         -->
-
-<!-- ========================================================= -->
-
-```
-```
