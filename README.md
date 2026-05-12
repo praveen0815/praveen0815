@@ -1,66 +1,191 @@
-<!-- Galaxy Animated Header -->
+````md
+<!-- ========================================================= -->
+<!--                  PREMIUM GITHUB README                    -->
+<!-- ========================================================= -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20I'm%20Praveenkumar&fontSize=40&fontAlignY=50&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Praveenkumar%20R&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=58&descSize=20"/>
 </p>
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+Software+Engineer;Building+Scalable+Web+Applications;Java+%7C+Python+%7C+TypeScript;Spring+Boot+%7C+Node.js+%7C+React;Artificial+Intelligence+%7C+Machine+Learning" />
-</h1>
+
+<!-- ========================================================= -->
+<!--                      TYPING ANIMATION                     -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Applications;Full+Stack+Developer+%7C+AI+Enthusiast;Spring+Boot+%7C+Node.js+%7C+React;Machine+Learning+%7C+Automation+%7C+LLMs;Turning+Ideas+Into+Scalable+Systems" />
+</p>
+
+<!-- ========================================================= -->
+<!--                         ABOUT ME                          -->
+<!-- ========================================================= -->
+
+# 💫 About Me
+
+```yaml
+Name: Praveenkumar R
+Role: AI Software Engineer Aspirant
+Location: Tamil Nadu, India
+
+Focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Backend Engineering
+  - Machine Learning
+
+Learning:
+  - Data Structures & Algorithms
+  - System Design
+  - AI Agents
+  - LLM Applications
+
+Goal:
+  Build scalable AI-powered real-world applications
+````
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 Tech Stack
 
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Practicing coding problems on **LeetCode**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 📊 Interested in **AI-driven insights**
-- 🧠 Learning **AI tools, APIs, and automation**
-- 🎯 Goal: Become an **AI Software Engineer building intelligent real-world systems**
-
----
-
-# 🚀 Languages & Tools
+## 👨‍💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,python,fastapi,django,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,c" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## ⚡ Backend Development
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=praveen0815&show_icons=true&theme=tokyonight" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveen0815&theme=tokyonight" height="170">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django" />
 </p>
 
 ---
 
-# 📊 Top Languages
+## 🎨 Frontend Development
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen0815&layout=compact&theme=tokyonight">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ---
 
-# 🧠 LeetCode Stats
+## 🗄️ Databases
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Praveen1508?theme=dark&font=Nunito">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
 
-# 🧊 Contribution Activity
+## 🛠️ Tools & Platforms
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen0815&theme=tokyonight">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+# 🧠 Currently Exploring
+
+* 🤖 AI Agents & Multi-Agent Systems
+* 🧩 LLM Applications
+* ⚙️ Backend Architecture
+* ☁️ Cloud & Deployment
+* 📈 Machine Learning Pipelines
+* 🔥 Scalable Software Systems
+
+---
+
+# 📌 Featured Projects
+
+## 🔹 AI-Powered Multi-Agent System
+
+> Developed an intelligent orchestration platform using LLM workflows, backend APIs, and real-time integrations.
+
+### Tech Stack
+
+* Python
+* FastAPI
+* LLM APIs
+* Vector Databases
+
+---
+
+## 🔹 Campus Sports Slot Booking App
+
+> Built a scalable web application for booking and managing sports facility reservations.
+
+### Features
+
+* User Authentication
+* Slot Booking
+* Admin Dashboard
+* Real-Time Availability
+
+### Tech Stack
+
+* React
+* Node.js
+* MongoDB
+
+---
+
+## 🔹 Full Stack Authentication System
+
+> JWT-based authentication system with secure role-based access control.
+
+### Features
+
+* Login & Registration
+* JWT Authentication
+* Role-Based Authorization
+* Protected APIs
+
+### Tech Stack
+
+* Node.js
+* Express.js
+* MongoDB
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=praveen0815&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen0815&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen0815&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen0815&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧊 Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen0815&theme=tokyonight">
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praveen0815&theme=tokyonight&utcOffset=5.5">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praveen0815&theme=tokyonight&utcOffset=5.5">
 </p>
 
 ---
@@ -68,15 +193,74 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🏆 Achievements
 
-📧 Email: **[Praveenkumar72696@gmail.com](mailto:Praveenkumar72696@gmail.com)**
+* 🚀 Consistently solving coding problems on LeetCode
+* 💡 Building AI-powered applications
+* 📚 Exploring scalable backend systems
+* 🔥 Learning modern software engineering practices
+* 🧠 Exploring AI automation & intelligent systems
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:praveenkumar72696@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/praveen0815">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praveen0815&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+while(!success) {
+   keepLearning();
+   buildProjects();
+   stayConsistent();
+}
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
+
+<!-- ========================================================= -->
+
+<!--                     END OF README                         -->
+
+<!-- ========================================================= -->
+
+```
+```
