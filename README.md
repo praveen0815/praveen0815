@@ -31,7 +31,7 @@ Goal:
 
 ---
 
-## ⚡ Backend Development
+## ⚡ Backend Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,django" />
@@ -39,7 +39,7 @@ Goal:
 
 ---
 
-## 🎨 Frontend Development
+## 🎨 Frontend Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css" />
