@@ -131,13 +131,14 @@ Goal:
 
 ---
 
-# 🏆 Achievements
+## 🏅 Certifications
 
-* 🚀 Consistently solving coding problems on LeetCode
-* 💡 Building AI-powered applications
-* 📚 Exploring scalable backend systems
-* 🔥 Learning and working with Large Language Models (LLMs)
-* 🧠 Exploring AI automation & intelligent systems
+- MATLAB
+- Cybersecurity
+- Introduction to Machine Learning
+- Internet of Things (IoT)
+- Python & AI Agents
+- AI-related Courses from Simplilearn
 
 ---
 
