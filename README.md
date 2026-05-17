@@ -136,7 +136,7 @@ Goal:
 * 🚀 Consistently solving coding problems on LeetCode
 * 💡 Building AI-powered applications
 * 📚 Exploring scalable backend systems
-* 🔥 Learning modern software engineering practices
+* 🔥 Learning and working with Large Language Models (LLMs)
 * 🧠 Exploring AI automation & intelligent systems
 
 ---
