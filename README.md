@@ -74,19 +74,6 @@ Aspiring AI Software Engineer passionate about building intelligent applications
 
 ---
 
-## 📈 Contribution Activity
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=praveen0815&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true"
-    alt="Praveen's GitHub Contribution Activity"
-    width="100%"
-  />
-</p>
----
-
 ## 🧩 Problem Solving
 
 <p align="left">
