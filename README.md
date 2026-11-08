@@ -1,12 +1,12 @@
-# 👋 Hey, I'm Praveen Kumar
+# I'm Praveen Kumar
 
 ### AI SOFTWARE ENGINEER | GENERATIVE AI | LLMs | AI AGENTS
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&width=600&lines=Building+Intelligent+AI+Applications;Exploring+LLMs+%26+Multi-Agent+Systems;Developing+Scalable+Backend+Solutions;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&width=650&lines=Building+Intelligent+AI+Applications;Exploring+LLMs+%26+Multi-Agent+Systems;Developing+Scalable+Backend+Solutions;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
-**Beyond code • Into intelligence.**
+**Beyond Code • Into Intelligence.**
 
 Aspiring AI Software Engineer passionate about building intelligent applications using Generative AI, Large Language Models, AI Agents, and backend engineering.
 
@@ -14,7 +14,7 @@ Aspiring AI Software Engineer passionate about building intelligent applications
 
 ## 👨‍💻 About Me
 
-- 🎓 Mechanical Engineering student at Bannari Amman Institute of Technology.
+- 🎓 Final Year Engineering student at Bannari Amman Institute of Technology.
 - 🤖 Interested in LLM applications, RAG, and Multi-Agent AI systems.
 - ⚙️ Building backend applications using Python and FastAPI.
 - ☁️ Exploring AWS cloud services and cloud-based application development.
@@ -23,19 +23,19 @@ Aspiring AI Software Engineer passionate about building intelligent applications
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=22D3EE"/>
 </p>
 
-### AI & Generative AI
+### 🤖 AI & Generative AI
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=22D3EE"/>
@@ -43,9 +43,9 @@ Aspiring AI Software Engineer passionate about building intelligent applications
   <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logoColor=22D3EE"/>
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22D3EE"/>
@@ -53,9 +53,9 @@ Aspiring AI Software Engineer passionate about building intelligent applications
   <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=22D3EE"/>
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=22D3EE"/>
@@ -74,11 +74,31 @@ Aspiring AI Software Engineer passionate about building intelligent applications
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=praveen0815&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praveen0815/praveen0815/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+</p>
+
+---
+
 ## 🧩 Problem Solving
 
-<p>
+<p align="left">
   <a href="https://leetcode.com/u/Praveen1508/">
-    <img src="https://img.shields.io/badge/LeetCode-300%2B_Problems-0D1117?style=for-the-badge&logo=leetcode&logoColor=22D3EE"/>
+    <img src="https://img.shields.io/badge/LeetCode-500%2B_Problems-0D1117?style=for-the-badge&logo=leetcode&logoColor=22D3EE"/>
   </a>
 </p>
 
