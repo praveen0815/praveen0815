@@ -76,26 +76,15 @@ Aspiring AI Software Engineer passionate about building intelligent applications
 
 ## 📈 Contribution Activity
 
+## 📈 Contribution Activity
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=praveen0815&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
     alt="Praveen's GitHub Contribution Activity"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/praveen0815/praveen0815/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
-
 ---
 
 ## 🧩 Problem Solving
