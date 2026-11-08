@@ -74,12 +74,6 @@ Aspiring AI Software Engineer passionate about building intelligent applications
 
 ---
 
-## 📈 Contribution Activity
-
-![Praveen's Contributions](https://contribkit.app/user/praveen0815.svg?palette=tokyonight&shape=rounded&background=%230D1117)
-
----
-
 ## 🧩 Problem Solving
 
 <p align="left">
