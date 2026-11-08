@@ -8,18 +8,16 @@
 
 **Beyond code • Into intelligence.**
 
-I am an aspiring AI Software Engineer passionate about building intelligent applications using Generative AI, Large Language Models, AI Agents, and backend engineering.
-
-My goal is to transform innovative ideas into practical, scalable software solutions.
+Aspiring AI Software Engineer passionate about building intelligent applications using Generative AI, Large Language Models, AI Agents, and backend engineering.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Mechanical Engineering student at Bannari Amman Institute of Technology.
-- 💼 Software Engineering Intern experience at InTalksAI.
 - 🤖 Interested in LLM applications, RAG, and Multi-Agent AI systems.
 - ⚙️ Building backend applications using Python and FastAPI.
+- ☁️ Exploring AWS cloud services and cloud-based application development.
 - 🧠 Exploring intelligent automation and conversational AI.
 - 💻 Consistently improving problem-solving and software engineering skills.
 
@@ -55,48 +53,15 @@ My goal is to transform innovative ideas into practical, scalable software solut
   <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=22D3EE"/>
 </p>
 
-### Development Tools
+### Cloud & DevOps
 
 <p>
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=22D3EE"/>
   <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=22D3EE"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 1. Hiver AI Support Agent
-AI-powered customer support agent focused on intelligent support workflows.
-
-### 2. VoiceBox
-Voice AI platform exploring speech processing and voice-based interactions.
-
-### 3. Government Scheme Eligibility Predictor
-Machine learning-based system for predicting eligibility for government-sponsored schemes.
-
-### 4. AI Agent NoteTaker
-AI-powered application for YouTube content summarization and note generation.
-
-### 5. StudentVoiceAI
-AI-powered student support platform.
-
-### 6. InterviewIQ
-AI interview preparation agent combining resume-based preparation, RAG, mock interviews, and answer feedback.
-
-**Explore all my projects:** [GitHub Repositories](https://github.com/praveen0815?tab=repositories)
-
----
-
-## 💼 Professional Experience
-
-**Software Engineering Intern — InTalksAI**
-
-- Worked on backend engineering and AI-powered application development.
-- Explored FastAPI-based services and API integrations.
-- Worked with LLM integrations, databases, and conversational AI workflows.
 
 ---
 
@@ -126,8 +91,9 @@ Consistently practicing Data Structures and Algorithms to strengthen problem-sol
 - Advanced LLM application development
 - Multi-Agent architectures
 - Retrieval-Augmented Generation
+- AWS Cloud Services
 - AI application architecture
-- Cloud and backend engineering
+- Scalable backend engineering
 
 ---
 
